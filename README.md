@@ -4,9 +4,10 @@
 **MasaLion/masalion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Personal Website (Coming Soon): (https://some-url.dev/)
 -->
-[![Header](./github_banner.png "Header")](https://some-url.dev/)
-<img align="center" height="32%" src="./github_banner.png" />
+[![Header](./github_banner.png "Header")]
+<img align="center" height="32%" src="./readme_banner.svg" />
 - 🔭 I’m currently working on personal projects (Details Soon 🐱‍👤)
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on interesting projects with motivated people
