@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-# 🔭 I’m currently working on personal projects (Details Soon 🐱‍👤)
-# 🌱 I’m currently learning React Native 
-# 👯 I’m looking to collaborate on interesting projects with motivated people
-# 💬 Ask me about Full-Stack Development, Systems Administration (Windows/Linux), Networking
-# 📫 How to reach me: You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-# 😄 Pronouns: He/Him
-# ⚡ Fun fact: ...
+ 🔭 I’m currently working on personal projects (Details Soon 🐱‍👤)
+ 🌱 I’m currently learning React Native 
+ 👯 I’m looking to collaborate on interesting projects with motivated people
+ 💬 Ask me about Full-Stack Development, Systems Administration (Windows/Linux), Networking
+ 📫 How to reach me: You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+ 😄 Pronouns: He/Him
+ ⚡ Fun fact: ...
 
 <!-- Icons -->
 
