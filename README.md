@@ -15,7 +15,7 @@ Personal Website (Coming Soon): (https://some-url.dev/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-<img height="10%" src="./twitter-icon.svg" />
+<img height="10%" src="./twitter-icon.gif" />
 
 <!-- Icons -->
 
