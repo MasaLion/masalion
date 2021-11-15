@@ -18,7 +18,7 @@ Personal Website (Coming Soon): (https://some-url.dev/)
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/Rf6GCuQ (twitter icon without padding)
+[1.2]: ./twitter-icon.gif (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
