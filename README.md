@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 [![Header](./github_banner.png "Header")](https://some-url.dev/)
+<img align="center" height="32%" src="./github_banner.png" />
 - 🔭 I’m currently working on personal projects (Details Soon 🐱‍👤)
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on interesting projects with motivated people
