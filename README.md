@@ -12,7 +12,7 @@ Personal Website (Coming Soon): (https://some-url.dev/)
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on interesting projects with motivated people
 - 💬 Ask me about Full-Stack Development, Systems Administration (Windows/Linux), Networking
-- 📫 How to reach me: You can find me on <img height="100%" src="./twitter-icon.gif" />, or on [![LinkedIn][3.2]][3].
+- 📫 How to reach me: You can find me on <img align="center" height="100%" src="./readme_banner.svg" />, or on [![LinkedIn][3.2]][3].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
