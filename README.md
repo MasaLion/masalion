@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 Personal Website (Coming Soon): (https://some-url.dev/)
 -->
-[![Header](./github_banner.png "Header")]
-<img align="center" height="32%" src="./readme_banner.svg" />
+![Header](./github_banner.png "Header")
+<img align="center" height="100%" src="./readme_banner.svg" />
 - 🔭 I’m currently working on personal projects (Details Soon 🐱‍👤)
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on interesting projects with motivated people
