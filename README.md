@@ -15,7 +15,7 @@ Personal Website (Coming Soon): (https://some-url.dev/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-<img height="10%" src="./twitter-icon.gif" />
+<a href="www.twitter.com/karthikleiju_"><img height="10%" src="./twitter-icon.gif" /></a>
 
 <!-- Icons -->
 
