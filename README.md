@@ -37,13 +37,9 @@ Personal Website (Coming Soon): (https://some-url.dev/)
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 
 </p>
@@ -74,9 +70,9 @@ Personal Website (Coming Soon): (https://some-url.dev/)
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## GitHub Stats
+## Stats
 
- ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=MasaLion&show_icons=true&theme=radical)    
+ ![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasaLion&show_icons=true&theme=radical)    
  ![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasaLion&theme=radical)   
 
 <!-- |                                                                     Karthik's Stats                                                                     |
