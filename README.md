@@ -76,15 +76,11 @@ Personal Website (Coming Soon): (https://some-url.dev/)
 
 ## GitHub Stats
 
-
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Karthik's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MasaLion&theme=radical&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=MasaLion&show_icons=true&theme=radical)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasaLion&theme=radical)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+| ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=MasaLion&show_icons=true&theme=radical)              | 
+| ![Karthik's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MasaLion&theme=radical&hide_border=false&area=true) |
+| ![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasaLion&theme=radical)                    | 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)] (https://jessicalim.me)
