@@ -76,12 +76,15 @@ Personal Website (Coming Soon): (https://some-url.dev/)
 
 ## GitHub Stats
 
-|                                                                     Karthik's Stats                                                                     |
+ ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=MasaLion&show_icons=true&theme=radical)    
+ ![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasaLion&theme=radical)   
+
+<!-- |                                                                     Karthik's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=MasaLion&show_icons=true&theme=radical)              | 
 | ![Karthik's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MasaLion&theme=radical&hide_border=false&area=true) |
-| ![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasaLion&theme=radical)                    | 
+|                 | 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 
-<!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)] (https://jessicalim.me)
+[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)] (https://jessicalim.me)
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)-->
