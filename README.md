@@ -52,8 +52,8 @@ Personal Website (Coming Soon): (https://some-url.dev/)
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badgelogo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23316192.svg?style=for-the-badgelogo=aws&logoColor=white"></a>
-    <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/Azure-%23316192.svg?style=for-the-badgelogo=azure&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23316192.svg?style=for-the-badgelogo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/Azure-%23316192.svg?style=for-the-badgelogo=microsoft-azure&logoColor=white"></a>
 </p>
 
 ## Stats
